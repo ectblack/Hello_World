@@ -1,0 +1,73 @@
+PlayerID,TeamID,Name,Age,Position,AgeGroup
+1,1,Michael Adams,10,Pitcher,9-10
+2,1,Sarah Lee,8,Shortstop,7-8
+3,2,James Carter,12,Pitcher,11-12
+4,2,Emily Davis,11,First Base,11-12
+5,3,John Walker,14,Pitcher,13-14
+6,3,Laura Smith,15,Catcher,15-16
+7,4,Brian Clark,17,Pitcher,17-18
+8,4,Alice Brown,19,Third Base,19-22
+9,5,Ethan Johnson,9,Pitcher,9-10
+10,5,Olivia Adams,8,Catcher,7-8
+11,6,Noah Carter,12,First Base,11-12
+12,6,Emma Garcia,11,Pitcher,11-12
+13,7,Liam Davis,13,Pitcher,13-14
+14,7,Mia Martinez,14,Outfield,13-14
+15,8,Benjamin Walker,16,Pitcher,15-16
+16,8,Sophia Brown,15,Shortstop,15-16
+17,1,Daniel Green,9,Outfield,9-10
+18,1,Sophia White,10,Catcher,9-10
+19,2,Ethan Hall,13,Third Base,11-12
+20,2,Grace Lopez,12,Shortstop,11-12
+21,3,Ryan Adams,14,Pitcher,13-14
+22,3,Emily Foster,15,Catcher,15-16
+23,4,Liam Nelson,17,Third Base,17-18
+24,4,Anna Garcia,19,Shortstop,19-22
+25,5,Olivia Brown,10,Outfield,9-10
+26,5,James King,8,Catcher,7-8
+27,6,Benjamin Scott,13,First Base,13-14
+28,6,Emma Harris,11,Pitcher,11-12
+29,7,John Carter,15,Pitcher,15-16
+30,7,Sophia Miller,14,Shortstop,13-14
+31,8,Lucas White,16,Outfield,15-16
+32,8,Grace Thompson,15,Pitcher,15-16
+33,1,Chris Taylor,9,Catcher,9-10
+34,1,Jordan White,8,Outfield,7-8
+35,1,Daniel Baker,10,Second Base,9-10
+36,1,Sophie Miller,10,Pitcher,9-10
+37,1,Ava Davis,8,Shortstop,7-8
+38,2,Liam Anderson,12,Catcher,11-12
+39,2,Charlotte Brown,11,Outfield,11-12
+40,2,William Harris,12,First Base,11-12
+41,2,Mia Johnson,12,Pitcher,11-12
+42,2,Ethan Scott,11,Third Base,11-12
+43,3,Olivia Wilson,14,Outfield,13-14
+44,3,James Parker,14,First Base,13-14
+45,3,Sophia Hill,13,Catcher,13-14
+46,3,Lily Evans,14,Pitcher,13-14
+47,3,Benjamin Moore,13,Shortstop,13-14
+48,4,Henry Carter,17,Catcher,17-18
+49,4,Amelia Baker,19,Outfield,19-22
+50,4,Emma Johnson,18,First Base,17-18
+51,4,Liam White,17,Pitcher,17-18
+52,4,Oliver Green,19,Shortstop,19-22
+53,5,Lucas Brown,9,Outfield,9-10
+54,5,Isabella Clark,10,First Base,9-10
+55,5,Aiden Wilson,9,Third Base,9-10
+56,5,Evelyn Adams,10,Pitcher,9-10
+57,5,Mason Davis,8,Shortstop,7-8
+58,6,Zoe Smith,11,Catcher,11-12
+59,6,Matthew Hall,12,Outfield,11-12
+60,6,Elijah Martinez,11,Second Base,11-12
+61,6,Emily Turner,12,Pitcher,11-12
+62,6,Jacob Lewis,12,First Base,11-12
+63,7,Lillian Taylor,14,Third Base,13-14
+64,7,Sophie Brown,13,Pitcher,13-14
+65,7,Grace Walker,14,Catcher,13-14
+66,7,Jack Green,13,Outfield,13-14
+67,7,Logan Evans,14,First Base,13-14
+68,8,Charlotte Harris,15,Outfield,15-16
+69,8,Nathan Scott,16,Third Base,15-16
+70,8,Abigail Moore,15,Pitcher,15-16
+71,8,Dylan Wilson,16,First Base,15-16
+72,8,Chloe Martinez,15,Shortstop,15-16
